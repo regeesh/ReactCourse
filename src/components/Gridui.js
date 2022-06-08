@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import "./css/global.css";
 
 //Pages
-import App from './App';
+import App from './App'; 
 import GridLayout from "./gridlayout";
 
 
